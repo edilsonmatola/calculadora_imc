@@ -39,9 +39,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///home/edilson/development/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.2",
+      "rootUri": "file:///home/edilson/development/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -137,10 +137,10 @@
       "name": "calculadora_imc",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-12-27T15:22:46.633855Z",
+  "generated": "2022-01-17T13:07:18.809513Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }
