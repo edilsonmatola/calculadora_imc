@@ -137,10 +137,10 @@
       "name": "calculadora_imc",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-01-17T13:02:34.886671Z",
+  "generated": "2022-01-17T13:07:18.809513Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }
